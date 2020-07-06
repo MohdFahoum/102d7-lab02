@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    
+}
+header{
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    font-size: 14px;
+}
+footer{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+li {
+    
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+  }
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0 ;
+    padding: 0 ;
+    overflow: hidden;
+    
+  }
+
